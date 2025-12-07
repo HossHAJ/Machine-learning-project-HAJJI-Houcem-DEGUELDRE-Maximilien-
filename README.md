@@ -78,4 +78,11 @@ streamlit
 - CatBoost model implementation
 - Model optimization using Optuna
 - Streamlit application development
+---
+## How to run the sreamlit 
+open a terminal in the folder and run this command 
+```python
+streamlit run .\streamlit_ML.py
+```
+
 

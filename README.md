@@ -11,6 +11,8 @@ The project follows a **complete ML pipeline**:
 - Model training
 - Evaluation and interpretation of results
 
+### The main file is machine learning project final.ipynb
+
 ---
 
 ##  Dataset

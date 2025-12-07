@@ -13,13 +13,9 @@ The project follows a **complete ML pipeline**:
 
 ### The main file is machine learning project final.ipynb
 
----
-
 ##  Dataset
 The dataset contains **NBA game statistics**, including team-level features used to predict:
 - **Target variable:** `PTS` (Points scored by the team)
-
----
 
 ##  Exploratory Data Analysis (EDA)
 The EDA includes:
@@ -30,8 +26,6 @@ The EDA includes:
 - Correlation heatmap
 - Residual analysis
 
----
-
 ##  Models Used
 The following Machine Learning models are implemented:
 - **XGBoost Regressor**
@@ -40,8 +34,6 @@ The following Machine Learning models are implemented:
 
 Hyperparameter optimization is performed using **Optuna**.
 
----
-
 ##  Evaluation Metrics
 Model performance is evaluated using:
 - Mean Absolute Error (MAE)
@@ -49,7 +41,7 @@ Model performance is evaluated using:
 - R² Score
 - Residual plots
 
----
+
 
 ##  Libraries & Tools
 Main Python libraries used:
@@ -69,16 +61,18 @@ streamlit
 ###  Houcem Hajji
 - Exploratory Data Analysis (EDA)
 - Feature analysis & data understanding
+- Preprocessing
 - XGBoost model implementation
 - Model optimization using Optuna
 - Streamlit application development
 
 ###  Maximilien Degueldre
 - Random Forest model implementation
+- Preprocessing
 - CatBoost model implementation
 - Model optimization using Optuna
 - Streamlit application development
----
+
 ## How to run the sreamlit 
 open a terminal in the folder and run this command 
 ```python
